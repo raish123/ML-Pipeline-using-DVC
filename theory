@@ -1,0 +1,5 @@
+__init__.py file why we used constructor file mei ?
+
+Agar kisi package ke andar multiple modules hain aur aap chahte ho ki sirf kuch
+specific modules ko import kar sakein, 
+toh __init__.py file mein unhe define kiya jata hai.
